@@ -1,0 +1,65 @@
+    # Cocos Creator
+    
+    build/
+    
+    temp/
+    
+    library/
+    
+    local/
+    
+    temp/
+    
+    assets/.DS_Store
+    
+    assets/.gitkeep
+    
+    assets/.svn
+    
+    assets/.DS_Store
+    
+    assets/.gitignore
+    
+    assets/*.meta
+    
+    assets/*.lock
+    
+    assets/*.tmp
+    
+    assets/*.bak
+    
+    assets/*.swp
+    
+    assets/*.swo
+    
+    assets/*.swn
+    
+    assets/*.log
+    
+    
+    
+    # Node.js
+    
+    node_modules/
+    
+    npm-debug.log
+    
+    
+    
+    # macOS
+    
+    .DS_Store
+    
+    
+    
+    # Windows
+    
+    Thumbs.db
+    
+    ehthumbs.db
+    
+    
+    
+    # Visual Studio Code
+    
+    .vscode/
